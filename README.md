@@ -137,3 +137,5 @@ feature_columns는 config 파일 또는 argparse에서 동적으로 설정 가�
 로그 저장: 실험 별 MSE/MAE 기록 파일 생성
 
 데이터: DataGuide, FnGuide MK2000 지수
+
+참고문헌: Liu, M., Zeng, A., Chen, M., Xu, Z., Lai, Q., Ma, L., & Xu, Q. (2022). Scinet: Time series modeling and forecasting with sample convolution and interaction. Advances in Neural Information Processing Systems, 35, 5816-5828.
